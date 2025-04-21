@@ -101,3 +101,4 @@ tqdm
 
 # Jupyter environment
 notebook
+torch
